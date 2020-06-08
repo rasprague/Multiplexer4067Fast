@@ -1,0 +1,4 @@
+Multiplexer4067Fast	KEYWORD1
+begin			KEYWORD2
+readChannel		KEYWORD2
+
