@@ -1,4 +1,4 @@
-# Multiplexer4067Fast
+# Multiplexer4067Fast - Arduino Library for the TI 4067 multiplexer
 https://github.com/rasprague/Multiplexer4067Fast
 --------------------------------------------------
 CD4067 Multiplexer library for Arduino et al - a fast and easy driver for TI 4067 chip  
