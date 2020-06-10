@@ -1,0 +1,16 @@
+{
+  "name": "Multiplxer4067Fast",
+  "keywords": "multiplexer, 4067, signal",
+  "description": "Arduino Library for the TI 4067 multiplexer. Utilizes the digitalWriteFast library for speed gains.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/rasprague/Multiplexer4067Fast.git"
+  },
+  "dependencies":
+  {
+    "name": "digitalWriteFast"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
