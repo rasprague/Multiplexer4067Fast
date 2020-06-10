@@ -16,3 +16,7 @@ The Texas Instruments CD4067 it's a CMOS multiplexer, you can use to scan 16 ana
 S0,S1,S2,S3 = addressing  
 SIG = output to an analog pin  
 EN = tied to GND
+
+## Installation
+1. Download the repo as zip, extract and place into Arduino IDE libraries folder.
+2. Rename "Multiplexer4067Fast-master" to "Multiplexer4067Fast" Arduino IDE does not accept dash character.
