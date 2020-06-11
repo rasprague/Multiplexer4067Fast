@@ -12,5 +12,8 @@
     "name": "digitalWriteFast"
   },
   "frameworks": "arduino",
-  "platforms": "*"
+  "platforms":
+  [
+    "atmelavr"
+  ]
 }
