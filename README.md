@@ -9,7 +9,7 @@ based on work by Max MC Costa https://github.com/sumotoy/Multiplexer4067
 
 -------------------------------------------------------------------------------------
 ## Description
-The Texas Instruments CD4067 it's a CMOS multiplexer, you can use to scan 16 analog values  
+The Texas Instruments CD4067 is a CMOS multiplexer, you can use to scan 16 analog values  
 (example:pots!) and feed any analog input of your processor.
 
 ## Wiring
